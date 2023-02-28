@@ -1,4 +1,7 @@
 # Moments
+<p>Projeto de estudo de desenvolvimento de frontend com AngularJS 13 consumindo API com AdonisJS. Este projeto foi baseado no curso de Angular do canal Hora de Codar, disponível no link: https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw</p>
+
+## About
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
